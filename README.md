@@ -7,3 +7,5 @@
 4. Le collaborateur B examine le PR,ajout des commentaire s et suggère des modifications
 5. Le collaborateur A met à jour le PR en fonction des retours
 6. Le collaborateur B fusionne le PR après approbation
+
+Tiburce est trop bon !
