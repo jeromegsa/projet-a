@@ -1,2 +1,2 @@
 # Projet-a
-le poutine de git est dans la place
+Ceci est un projet test pour montrer la collaboration GIT.
