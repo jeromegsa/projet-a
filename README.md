@@ -9,3 +9,4 @@ Ceci est un projet de flux de collaboration GIT.
 5. Le collaborateur A met à jour le PR en fonction des retours.
 6. le collaborateur B fusionne le PR arprès approbation.
 7. le collaborateur gère les conflits avant le PR.
+avatd
